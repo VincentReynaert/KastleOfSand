@@ -1,0 +1,21 @@
+{
+  "name": "Kastleofsand",
+  "version": "1.0.0",
+  "description": "Hey mon pathé!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Game jams concept",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "socket.io": "^1.7.2"
+  },
+  "engines": {
+    "node": "6.2.0"
+  }
+}
